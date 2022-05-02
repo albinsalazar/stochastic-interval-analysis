@@ -20,4 +20,4 @@ The code can be easily ran locally.
 The next version of the analysis will include coarse-grain approximations for multi-dimensional systems using an ILP forumaltion. 
 
 ## Project status
-Last updated: 1 May, 2022. The project is under active developmentment.
+Last updated: 2 May, 2022. The project is under active development.
