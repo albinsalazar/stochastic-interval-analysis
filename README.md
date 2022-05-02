@@ -10,9 +10,8 @@ The goal of the analysis is to coarse-grain with intervals a 2-dimensional react
 
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+![alt text] (https://github.com/albinsalazar/stochastic-interval-analysis/blob/main/2-d-random-walk.pdf)
 
-![alt text] (2-d-random-walk.pdf)
 ## Installation
 The code can be easily ran locally.
 
