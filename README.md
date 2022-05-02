@@ -10,7 +10,7 @@ The goal of the analysis is to coarse-grain with intervals a 2-dimensional react
 
 
 ## Visuals
-![alt text](https://github.com/albinsalazar/stochastic-interval-analysis/blob/main/2-d-random-walk.pdf)
+<img src="https://github.com/albinsalazar/stochastic-interval-analysis/blob/main/2-d-random-walk.pdf" width="100" height="100">
 
 ## Installation
 The code can be easily ran locally.
